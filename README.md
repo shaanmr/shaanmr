@@ -1,16 +1,12 @@
-## Hi there 👋
+## About Me
 
-<!--
-**shaanmr/shaanmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Shaan Mohammad Rizwan 👋  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on **a Student Management System using Django** and **a Python internship at CodSoft**.  
+🌱 I’m currently learning **Python, GitHub, Django, and Cybersecurity**.  
+👯 I’m looking to collaborate on **Python projects, web development, and cybersecurity research**.  
+🤔 I’m looking for help with **improving my Git workflow and mastering cybersecurity concepts**.  
+💬 Ask me about **Python, Django, Git, true crime documentaries, and found footage horror movies**.  
+📫 How to reach me: **[LinkedIn](https://linkedin.com/in/shaanmr) | [Facebook](https://facebook.com/shaanmr)**  
+😄 Pronouns: **He/Him**  
+⚡ Fun fact: **I love rooftops and riversides—they're my go-to places for deep thinking!**  
