@@ -26,7 +26,7 @@ A Python developer and cybersecurity enthusiast with a strong interest in web de
 
 
 ### Resume
-[![Resume](https://img.icons8.com/ios-filled/50/ffffff/resume.png)](https://github.com/yourusername/resume/blob/main/resume.pdf)
+[![Resume](https://img.icons8.com/ios-filled/50/ffffff/resume.png)](https://github.com/shaanmr/My-Resume/blob/main/Shaan_CV.pdf)
 
 ### Badges
 
