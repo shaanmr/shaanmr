@@ -8,8 +8,8 @@ A Python developer and cybersecurity enthusiast with a strong interest in web de
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [shaanmr07@gmail.com](mailto:shaanmr07@gmail.com)
-* 🧠  I'm learning Python, GitHub, Django, and Cybersecurity.
-* 🤝  I'm open to collaborating on Python projects, Django web applications, and cybersecurity research.
+* 🧠  I'm learning Python, Django, and Cybersecurity.
+* 🤝  I'm open to collaborating on Python Projects, Django Web Applications, and Cybersecurity Research.
 * ⚡  Fun fact I love rooftops and riversides—they're my go-to places for deep thinking!
 
 ### Skills
