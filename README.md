@@ -68,10 +68,9 @@ A Python developer and cybersecurity enthusiast with a strong interest in web de
 
 <b>My GitHub Stats</b>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaanmr&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&color=00e5ff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanmr&theme=tokyonight&bg_color=0d1117&color=00e5ff" />
-</div>
+<a href="http://www.github.com/shaanmr"><img src="https://github-readme-stats.vercel.app/api?username=shaanmr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shaanmr's GitHub stats" /></a>
+
+<a href="http://www.github.com/shaanmr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanmr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaanmr&bg_color=0d1117&color=ffffff&line=00e5ff&point=00e5ff&area=true&hide_border=true&theme=tokyonight" />
