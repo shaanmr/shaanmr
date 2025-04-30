@@ -1,18 +1,16 @@
-<h1> align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm SHAAN!</h1>
-<h3 align="center">A Web Developer | Expert in Front-End & Back-End</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm SHAAN!
+=============================================================================================================================================
 
----
+A Web Developer | Expert in Front-End & Back-End
+------------------------------------------------
 
-### 📌 About Me
+A Python developer and cybersecurity enthusiast with a strong interest in web development and technology. I enjoy solving problems, building projects, and continuously expanding my skills technology, and security concepts. When I'm not coding, you’ll find me reading books, writing stories, watching crime documentaries, or enjoying found footage horror movies. I'm always open to collaboration on exciting projects, so feel free to connect with me!
 
-- 🔭 I’m currently working on multiple **web-based projects**
-- 🌱 I’m currently learning **Python, Django and Cybersecurity**
-- 💬 I'm open to collaborating on Python Projects, Django Web Applications, and Cybersecurity Research
-- 👨‍💻 Most of my projects are available at: [https://github.com/shaanmr](https://github.com/shaanmr)
-- 📫 Reach me: **shaansmr7@gmail.com**
-- ⚡ Fun fact I love rooftops and riversides—they're my go-to places for deep thinking!
-
----
+* 🌍  I'm based in Bangladesh
+* ✉️  You can contact me at [shaanmr07@gmail.com](mailto:shaanmr07@gmail.com)
+* 🧠  I'm learning Python, Django, and Cybersecurity.
+* 🤝  I'm open to collaborating on Python Projects, Django Web Applications, and Cybersecurity Research.
+* ⚡  Fun fact I love rooftops and riversides—they're my go-to places for deep thinking!
 
 ### 🛠️ Technologies & Tools
 
@@ -33,7 +31,6 @@
 
 #### Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
 </p>
 
@@ -53,20 +50,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaanmr&show_icons=true&count_private=true&hide=issues&hide_title=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00e5ff&title_color=00e5ff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaanmr&theme=github-dark&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=ffffff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaanmr&bg_color=0d1117&color=ffffff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
@@ -74,9 +57,21 @@
   <a href="mailto:shaansmr7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shaanmr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://fb.com/shaanmr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/dyn_kin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/+8801628015752" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/shaanmr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/+8801312725077" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </p>
+
+
+### Resume
+[![Resume](https://img.icons8.com/ios-filled/50/ffffff/resume.png)](https://github.com/shaanmr/My-Resume/blob/main/Shaan_CV.pdf)
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/shaanmr"><img src="https://github-readme-stats.vercel.app/api?username=shaanmr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shaanmr's GitHub stats" /></a>
+
+<a href="http://www.github.com/shaanmr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanmr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 
