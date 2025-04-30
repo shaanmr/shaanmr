@@ -68,7 +68,7 @@ A Python developer and cybersecurity enthusiast with a strong interest in web de
 
 <b>My GitHub Stats</b>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="http://www.github.com/shaanmr">
     <img src="https://github-readme-stats.vercel.app/api?username=shaanmr&show_icons=true&hide=&count_private=true&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&bg_color=0d1117&hide_border=true" alt="shaanmr's GitHub stats" />
   </a>
