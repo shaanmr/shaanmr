@@ -6,11 +6,11 @@
 ### 📌 About Me
 
 - 🔭 I’m currently working on multiple **web-based projects**
-- 🌱 I’m currently learning **Django, MySQL, and MongoDB**
-- 💬 Ask me about **JavaScript, React, Node.js, Python, or WordPress**
+- 🌱 I’m currently learning **Python, Django and Cybersecurity**
+- 💬 I'm open to collaborating on Python Projects, Django Web Applications, and Cybersecurity Research.**
 - 👨‍💻 Most of my projects are available at: [https://github.com/shaanmr](https://github.com/shaanmr)
 - 📫 Reach me: **shaansmr7@gmail.com**
-- ⚡ Fun fact: I love **horror movies**, **true crime stories**, and exploring **cybersecurity**
+- ⚡ Fun fact I love rooftops and riversides—they're my go-to places for deep thinking!**
 
 ---
 
@@ -20,8 +20,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 </p>
 
 #### Frontend
@@ -36,15 +34,14 @@
 #### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
 </p>
 
 #### Database & Hosting
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white" />
 </p>
