@@ -74,9 +74,10 @@ A Python developer and cybersecurity enthusiast with a strong interest in web de
   </a>
 
   <a href="http://www.github.com/shaanmr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanmr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&width=350" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanmr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&width=320&height=150" />
   </a>
 </div>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaanmr&bg_color=0d1117&color=ffffff&line=00e5ff&point=00e5ff&area=true&hide_border=true&theme=tokyonight" />
