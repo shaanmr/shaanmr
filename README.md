@@ -30,16 +30,13 @@ A Python developer and cybersecurity enthusiast with a strong interest in web de
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaanmr&show_icons=true&count_private=true&hide=issues&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaanmr&show_icons=true&count_private=true&hide=issues&hide_title=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00e5ff&title_color=00e5ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaanmr&theme=github-dark&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=ffffff" width="48%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanmr&theme=react&hide_border=true&background=0D1117&currStreakLabel=00e5ff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&fire=00e5ff&ring=00e5ff" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaanmr&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaanmr&bg_color=0d1117&color=ffffff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
 </p>
