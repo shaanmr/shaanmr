@@ -7,7 +7,6 @@ A Web Developer | Expert in Front-End & Back-End
 A Python developer and cybersecurity enthusiast with a strong interest in web development and technology. I enjoy solving problems, building projects, and continuously expanding my skills technology, and security concepts. When I'm not coding, you’ll find me reading books, writing stories, watching crime documentaries, or enjoying found footage horror movies. I'm always open to collaboration on exciting projects, so feel free to connect with me!
 
 * 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [shaanmr07@gmail.com](mailto:shaanmr07@gmail.com)
 * 🧠  I'm learning Python, Django, and Cybersecurity.
 * 🤝  I'm open to collaborating on Python Projects, Django Web Applications, and Cybersecurity Research.
 * ⚡  Fun fact I love rooftops and riversides—they're my go-to places for deep thinking!
@@ -54,11 +53,11 @@ A Python developer and cybersecurity enthusiast with a strong interest in web de
 ### 🌐 Let's Connect
 
 <p>
-  <a href="mailto:shaansmr7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shaanmr07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shaanmr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://fb.com/shaanmr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/shaanmr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/+8801312725077" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/dyn_kin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/+8801628015752" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 
@@ -72,6 +71,10 @@ A Python developer and cybersecurity enthusiast with a strong interest in web de
 <a href="http://www.github.com/shaanmr"><img src="https://github-readme-stats.vercel.app/api?username=shaanmr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shaanmr's GitHub stats" /></a>
 
 <a href="http://www.github.com/shaanmr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanmr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaanmr&bg_color=0d1117&color=ffffff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
