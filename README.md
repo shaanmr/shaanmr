@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Shaan Mohammad Rizwan</h1>
-<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast from Bangladesh</h3>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm SHAAN!</h1>
+<h3 align="center">A Web Developer | Expert in Front-End & Back-End</h3>
 
 ---
 
