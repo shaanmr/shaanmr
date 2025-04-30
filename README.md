@@ -68,14 +68,14 @@ A Python developer and cybersecurity enthusiast with a strong interest in web de
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/shaanmr">
+  <img src="https://streak-stats.demolab.com?user=shaanmr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+</a>
+
 <div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
   <a href="http://www.github.com/shaanmr">
     <img src="https://github-readme-stats.vercel.app/api?username=shaanmr&show_icons=true&hide=&count_private=true&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&bg_color=0d1117&hide_border=true&card_width=350" alt="shaanmr's GitHub stats" />
   </a>
-
-<a href="http://www.github.com/shaanmr">
-  <img src="https://streak-stats.demolab.com?user=shaanmr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-</a>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaanmr&bg_color=0d1117&color=ffffff&line=00e5ff&point=00e5ff&area=true&hide_border=true" />
