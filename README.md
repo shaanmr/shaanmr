@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on multiple **web-based projects**
 - 🌱 I’m currently learning **Python, Django and Cybersecurity**
-- 💬 I'm open to collaborating on Python Projects, Django Web Applications, and Cybersecurity Research.**
+- 💬 I'm open to collaborating on Python Projects, Django Web Applications, and Cybersecurity Research
 - 👨‍💻 Most of my projects are available at: [https://github.com/shaanmr](https://github.com/shaanmr)
 - 📫 Reach me: **shaansmr7@gmail.com**
-- ⚡ Fun fact I love rooftops and riversides—they're my go-to places for deep thinking!**
+- ⚡ Fun fact I love rooftops and riversides—they're my go-to places for deep thinking!
 
 ---
 
